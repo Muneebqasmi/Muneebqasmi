@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muneeb;Full+Stack+Web+Developer;AI%2FML+Enthusiast;Building+Things+That+Live+on+the+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0B5FA5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muneeb;Full+Stack+Web+Developer;Working+with+AI%2FML;Building+Things+That+Live+on+the+Web" alt="Typing SVG" />
 
 </div>
 
@@ -69,11 +69,11 @@ I'm a Full Stack Web Developer with a BSCS from the University of South Asia, fo
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 Contribution Summary
 
 <div align="center">
 
-<img src="./metrics.achievements.svg" width="90%" />
+<img src="./metrics.summary.svg" width="90%" />
 
 </div>
 
