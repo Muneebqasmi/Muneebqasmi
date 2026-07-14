@@ -61,8 +61,7 @@ I'm a Full Stack Web Developer with a BSCS from the University of South Asia, fo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muneebqasmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneebqasmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="38%" />
+<img src="./metrics.stats.svg" width="90%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneebqasmi&theme=tokyonight&hide_border=true&background=0d1117" width="60%" />
 
@@ -70,11 +69,11 @@ I'm a Full Stack Web Developer with a BSCS from the University of South Asia, fo
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muneebqasmi&theme=tokyonight&no-frame=true&margin-w=10&column=7" width="90%" />
+<img src="./metrics.achievements.svg" width="90%" />
 
 </div>
 
@@ -84,7 +83,7 @@ I'm a Full Stack Web Developer with a BSCS from the University of South Asia, fo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneebqasmi&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" />
+<img src="./metrics.languages.svg" width="60%" />
 
 </div>
 
