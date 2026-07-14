@@ -31,12 +31,12 @@ jobs:
           plugin_languages_analysis_timeout: 15
           config_timezone: Asia/Karachi
 
-      - name: Generate achievements
+      - name: Generate contribution summary
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.achievements.svg
+          filename: metrics.summary.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_stars: yes
+          plugin_followup: yes
           config_timezone: Asia/Karachi
