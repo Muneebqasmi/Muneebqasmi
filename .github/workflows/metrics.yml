@@ -1,0 +1,42 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs once a day
+  workflow_dispatch:      # lets you run it manually anytime
+  push:
+    branches: [ main ]
+
+jobs:
+  profile-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate stats card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
+          config_timezone: Asia/Karachi
+
+      - name: Generate language breakdown
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          config_timezone: Asia/Karachi
+
+      - name: Generate achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          config_timezone: Asia/Karachi
