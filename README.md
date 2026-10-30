@@ -287,18 +287,27 @@ A personal web portfolio used to explore interface composition, animation, and e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muneebqasmi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111827&text_color=334155&icon_color=2563eb" height="170" alt="GitHub account statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneebqasmi&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=334155" height="170" alt="GitHub repository language distribution" />
+<div align="center">
+
+<img src="./metrics.stats.svg" width="48%" alt="GitHub Account Statistics" />
+&nbsp;
+<img src="./metrics.languages.svg" width="48%" alt="GitHub Language Statistics" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneebqasmi&bg_color=ffffff&color=334155&line=2563eb&point=111827&area=true&area_color=bfdbfe&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GitHub contribution activity" />
+<img src="./metrics.summary.svg" width="98%" alt="GitHub Profile Summary" />
 
 </div>
 
-<sub>Statistics are supplied by third-party services and may be temporarily unavailable. Repository language percentages reflect code composition, not proficiency.</sub>
+<br>
+
+<sub>
+Statistics are generated through GitHub Actions.
+Repository language distribution reflects code composition, not proficiency.
+</sub>
 
 <br>
+
 
 ---
 
