@@ -324,12 +324,6 @@ not overall programming proficiency.
 
 <br>
 
----
-
-
----
-
-
 
 ---
 
