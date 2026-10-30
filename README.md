@@ -67,87 +67,66 @@ I use AI development tools as part of this workflow, while keeping architectural
 ---
 
 
+
 ### 06 / TOOLS & PLATFORMS
 
 ---
 
-#### DEVELOPMENT & DATABASE TOOLS
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linuxmint/87CF3E" width="48" height="48" alt="Linux Mint" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/npm/CB3837" width="48" height="48" alt="npm" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="48" height="48" alt="Dev-C++" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL Workbench" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="DB Browser for SQLite" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" alt="Vercel" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git&theme=light" width="48" alt="Git"/><br>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub"/><br>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" alt="VS Code"/><br>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" alt="Linux"/><br>
+      <sub>Linux</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=npm&theme=light" width="48" alt="npm"/><br>
+      <sub>npm</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" alt="MySQL"/><br>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="48" alt="SQLite"/><br>
+      <sub>SQLite</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" alt="Vercel"/><br>
+      <sub>Vercel</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma&theme=light" width="48" alt="Figma"/><br>
+      <sub>Figma</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=webflow&theme=light" width="48" alt="Webflow"/><br>
+      <sub>Webflow</sub>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-#### AI ASSISTANTS & PLATFORMS
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/openai/000000" width="48" height="48" alt="ChatGPT" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="48" height="48" alt="Gemini" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google AI Studio" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/google/EA4335" width="48" height="48" alt="Google Stitch" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/google/34A853" width="48" height="48" alt="Google Labs" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
-</p>
-
-<br>
-
-#### DESIGN & WEB PLATFORMS
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/framer/000000" width="48" height="48" alt="Framer" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/webflow/146EF5" width="48" height="48" alt="Webflow" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/0D99FF" width="48" height="48" alt="Figure Labs (placeholder)" />
-</p>
-
-<br>
-
-#### PRODUCTIVITY & NETWORKING
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" alt="Microsoft Word" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" alt="Microsoft PowerPoint" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/049FD9" width="48" height="48" alt="Cisco Packet Tracer" />
-</p>
+</div>
 
 <br>
 
 ---
 
-<br>
 
 ---
 
