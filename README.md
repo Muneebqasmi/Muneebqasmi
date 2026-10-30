@@ -1,184 +1,333 @@
 <div align="center">
 
-![Muneeb Qasmi — Software Engineering](assets/hero.svg)
+<img src="assets/manifesto.svg" alt="Design the logic. Build the system. Software engineering at the intersection of web applications and AI." width="100%" />
 
-**Software Developer · Software Design · Backend Engineering · Applied AI**
+**SOFTWARE DEVELOPER &nbsp; / &nbsp; WEB ENGINEERING &nbsp; / &nbsp; APPLIED AI**
 
-[![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-132A43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muneebqasmi?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=Muneebqasmi&color=159ad6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Muneebqasmi)
+<br>
 
-</div>
-
-## Software developer. Systems thinker. Problem solver.
-
-I design, develop, and refine software solutions to technical problems. My work is not limited to building websites or connecting APIs: I approach software as an **engineering discipline**, moving from problem analysis and requirements to system architecture, algorithms, implementation, testing, debugging, and continuous improvement.
-
-I work across application logic, backend services, data models, user interfaces, and intelligent software components. I am interested in how these parts fit together: how information moves through a system, where failures occur, what makes an implementation maintainable, and how a technical solution can be made more reliable, secure, and useful.
-
-My experience includes Python-based software, Flask applications, JavaScript interfaces, SQL-backed systems, machine learning experimentation, PHP/WordPress work, and integration with external language-model APIs. I value clear system boundaries, explicit validation, understandable code, and decisions supported by testing rather than assumptions.
-
-> **Engineering objective:** Transform complex requirements into software that is structured, testable, understandable, and capable of evolving.
-
-## Engineering domains
-
-![Engineering disciplines](assets/disciplines.svg)
-
-| Discipline | What I work on |
-|:--|:--|
-| **Software design** | Requirements analysis, modular architecture, data flow, component responsibilities, maintainability |
-| **Application engineering** | Software features, business logic, state handling, integration, debugging |
-| **Backend systems** | Python, Flask, API endpoints, validation, SQL queries, database interactions |
-| **Frontend engineering** | HTML, CSS, JavaScript, responsive interfaces, interaction design |
-| **Applied artificial intelligence** | Machine learning, model evaluation, LLM integration, controlled AI workflows |
-| **Data engineering fundamentals** | Relational databases, schema thinking, data preparation and structured processing |
-| **Software quality** | Functional testing, edge cases, troubleshooting, iterative improvement |
-
-## Technical stack
-
-<div align="center">
-
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=python,js,html,css,php,java,c&theme=light)
-
-**Systems, databases and development tools**
-
-![Tooling](https://skillicons.dev/icons?i=flask,postgres,mysql,git,github,linux,vscode,wordpress&theme=light)
+[![GitHub](https://img.shields.io/badge/EXPLORE_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muneebqasmi?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Muneebqasmi&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge)](https://github.com/Muneebqasmi)
 
 </div>
-
-| Layer | Tools and concepts |
-|:--|:--|
-| **Programming** | Python, JavaScript, PHP, Java, C |
-| **Web application development** | Flask, HTML5, CSS3, responsive design, REST-style APIs |
-| **Persistence** | PostgreSQL, MySQL, SQL, structured data |
-| **AI and data science** | Scikit-learn, Pandas, predictive modeling, LLM APIs, prompt workflows |
-| **Platforms and workflow** | Linux, Git, GitHub, VS Code, WordPress |
-| **Additional exploration** | Interactive frontend experiences, UI motion, application architecture |
-
-## Selected engineering work
-
-### 01 — ARBEIT | Intelligent Recruitment Platform
-
-**Python · Flask · PostgreSQL · JavaScript · AI integration · PyMuPDF**
-
-ARBEIT is a software engineering project focused on bringing job discovery, candidate information, applications, and recruiter evaluation into a coherent recruitment system. Its architecture combines distinct job-seeker and recruiter workflows with backend authorization, persistent data, and carefully bounded AI assistance.
-
-**System design and responsibilities**
-
-- **Job-seeker experience:** profile management, CV ingestion and review, vacancy discovery, application preparation, and application tracking.
-- **Recruiter experience:** vacancy management, candidate comparison, requirement interpretation, and review support.
-- **NOVA assistant:** voice/text interaction designed around controlled backend tools, interpretable actions, and explicit confirmation before submitting applications.
-- **Information integrity:** compare candidate-entered claims against CV content, identify inconsistencies, and avoid treating AI inference as independent verification.
-- **Engineering boundaries:** role-based authorization, parameterized SQL, auditability, and a usable core application without dependence on AI availability.
-
-**Architecture model**
-
-```text
-JOB SEEKER INTERFACE             RECRUITER INTERFACE
-         |                               |
-         +---------------+---------------+
-                         |
-                FLASK APPLICATION
-              Auth / RBAC / APIs
-                         |
-             +-----------+-----------+
-             |                       |
-        POSTGRESQL             SERVICE LAYER
-       Persistent data         CV parsing / matching
-                                     |
-                             CONTROLLED AI GATEWAY
-                                     |
-                                LLM PROVIDER
-
-NOVA: job-seeker interaction through authorized backend tools
-```
-
-This section describes the engineering scope and architecture, without asserting that every capability has already been delivered.
-
-### 02 — AI Student Grade Prediction | Predictive Software
-
-![Student grade prediction model pipeline](assets/ai.svg)
-
-**Python · Flask · Machine Learning · Data Processing**
-
-A predictive application built around student performance data. The system connects a machine learning workflow to a web interface, allowing structured inputs to be processed and predictions to be presented through application logic.
-
-The work covers dataset preparation, feature handling, model training, regression and classification tasks, evaluation, and application integration. Recorded evaluation results from the project were approximately **R² = 0.9283** for GPA regression and **accuracy = 0.7119** for grade-class prediction. These are model evaluation results, not guarantees for new data.
-
-### 03 — AI Chatbot | Conversational Software
-
-![AI chatbot integration architecture](assets/chatbot.svg)
-
-**Python · Flask · LLM APIs · Web Interface**
-
-A conversational application connecting a browser-based interface with a Python backend and external model services. It explores the engineering involved in accepting user requests, coordinating server-side API calls, processing model responses, and returning them to the interface.
-
-The project includes experience integrating services such as Groq and OpenRouter and understanding the practical distinction between application-controlled behavior and model-generated output.
-
-### 04 — Deutsch Lernen | Language Learning Software
-
-**Learning workflows · Information architecture · User experience · Application data**
-
-Deutsch Lernen explores a more organized approach to digital language learning. Its central concept is to make vocabulary, grammar, example sentences, and personal notes easy to structure, revisit, and expand, rather than reducing learning to a sequence of quizzes.
-
-The product design considers unit organization, navigation, persistent learning records, and an approachable interface. This section presents the software concept and design scope without claiming that all features are implemented.
-
-## More projects
-
-![Additional project categories](assets/projects.svg)
-
-| Project | Engineering focus | Description |
-|:--|:--|:--|
-| **Scoopies** | E-commerce / web development | Ice-cream storefront prototype with product-focused commerce workflows. |
-| **Veloura** | Frontend / e-commerce | Fashion storefront emphasizing presentation, layout, and web interactions. |
-| **Personal Portfolio** | Interactive frontend | Portfolio website exploring visual design and dynamic web experiences. |
-| **Phishing URL Detection** | Cybersecurity / ML | Security-oriented URL classification work; implementation details still need confirmation. |
-
-## My engineering workflow
-
-![Software engineering workflow](assets/process.svg)
-
-**Problem → Requirements → Design → Implementation → Test → Debug → Verify → Improve**
-
-I use AI-assisted development to accelerate research, prototyping, implementation, and debugging, but keep engineering decisions grounded in requirements and verified behavior. Generated code is a starting point for understanding, testing, and refinement—not a substitute for those steps.
-
-### Principles I apply
-
-- **Design before complexity:** establish responsibilities, boundaries, and data flow before adding unnecessary abstractions.
-- **Build for real behavior:** test actual user flows, error paths, and integration points.
-- **Keep AI controlled:** separate model suggestions from trusted application actions and user approval.
-- **Treat data carefully:** validate inputs, control access, and avoid unsupported claims about information.
-- **Improve through evidence:** debug from observed behavior, evaluate trade-offs, and iterate.
-
-## GitHub activity and engineering signals
-
-<div align="center">
-
-![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Muneebqasmi&bg_color=FFFFFF&color=334155&line=1479C9&point=2563EB&area=true&area_color=DCEEFF&hide_border=true)
-
-![GitHub contribution streak](https://streak-stats.demolab.com?user=Muneebqasmi&theme=transparent&hide_border=true&background=FFFFFF&ring=1479C9&fire=2563EB&currStreakLabel=1479C9&sideLabels=334155&dates=64748B)
-
-</div>
-
-*Third-party charts reflect available public GitHub activity; they do not measure total engineering experience or offline work.*
-
-## What I'm exploring next
-
-| Area | Questions driving my work |
-|:--|:--|
-| **Software architecture** | How can I design systems that stay understandable as requirements grow? |
-| **AI engineering** | How can LLM capabilities be integrated without surrendering application control? |
-| **Backend reliability** | How should services handle validation, failures, and data integrity? |
-| **Human-centered software** | How can technically capable products also feel intuitive and polished? |
-| **Security awareness** | Where are the trust boundaries, and what should be validated or authorized? |
 
 ---
 
+# 01 / THE DEVELOPER
+
+### Software Developer | Web Engineering & Applied AI
+
+Software developer working at the intersection of web technologies and artificial intelligence.
+
+I build browser-based applications with an emphasis on system architecture, backend development, database-driven functionality, and responsive interfaces. My current technical focus is incorporating AI into web applications through language model integration, conversational interfaces, and intelligent application workflows.
+
+My development approach emphasizes understanding requirements, designing appropriate solutions, and refining implementations through testing and iteration.
+
+> **Primary focus:** Browser-based software that connects usable interfaces with dependable application logic, structured data, and purposeful AI capabilities.
+
+| WHAT I BUILD | HOW I APPROACH IT |
+|:--|:--|
+| Browser-based software | Translate workflows and requirements into application features |
+| Backend services | Structure endpoints, validation, business rules, and integrations |
+| Data-backed applications | Model information and connect interfaces to persistent storage |
+| AI-enabled web features | Integrate models through controlled application logic, rather than treating AI output as authoritative |
+| Interactive interfaces | Balance clarity, responsiveness, and usability |
+
+<br>
+
+---
+
+# 02 / ENGINEERING PRACTICE
+
+### From interface to infrastructure
+
+Web applications are more than their visible pages. I work on the layers that make browser-based software useful: interaction, request handling, business logic, data management, and external service integration.
+
+| DISCIPLINE | AREAS OF WORK |
+|:--|:--|
+| **Frontend engineering** | HTML, CSS, JavaScript, responsive layouts, interface behavior |
+| **Backend development** | Python, Flask, PHP, routing, validation, application logic |
+| **Database systems** | SQL, PostgreSQL, MySQL, data models, queries, persistence |
+| **Applied AI** | LLM APIs, conversational interfaces, prompt-to-tool workflows, ML experiments |
+| **Software design** | Requirements, modularity, component boundaries, information flow |
+| **Quality & iteration** | Testing, debugging, handling failures, reviewing implementation choices |
+
+### The engineering loop
+
+```text
+REQUIREMENTS  →  DESIGN  →  IMPLEMENT  →  TEST
+     ↑                                    |
+     └────────── DEBUG & REFINE ──────────┘
+```
+
+I use AI development tools as part of this workflow, while keeping architectural decisions, validation, and verification grounded in the actual application.
+
+<br>
+
+---
+
+# 03 / TECHNOLOGY & TOOLING
+
 <div align="center">
 
-### BUILD SYSTEMS. SOLVE PROBLEMS. KEEP IMPROVING.
+**LANGUAGES & WEB TECHNOLOGIES**
 
-[**Explore my repositories**](https://github.com/Muneebqasmi?tab=repositories)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,php,java,c&theme=light" alt="Python JavaScript HTML CSS PHP Java C" />
+
+<br><br>
+
+**FRAMEWORKS, DATA & DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=flask,postgres,mysql,wordpress,git,github,linux,vscode&theme=light" alt="Flask PostgreSQL MySQL WordPress Git GitHub Linux VS Code" />
+
+</div>
+
+<br>
+
+| LAYER | TOOLS / TECHNOLOGIES |
+|:--|:--|
+| **Application interfaces** | HTML5, CSS3, JavaScript |
+| **Server-side development** | Python, Flask, PHP |
+| **Data persistence** | PostgreSQL, MySQL, SQL, JSON |
+| **AI & data** | LLM APIs, Scikit-learn, Pandas, PyMuPDF |
+| **Web platforms** | WordPress |
+| **Development environment** | Git, GitHub, Linux, VS Code |
+
+<sub>Tools listed here reflect project work and learning; they are not claims of equal proficiency in every technology.</sub>
+
+<br>
+
+---
+
+# 04 / SELECTED PROJECTS
+
+### Eight projects / newest to oldest
+
+A selection of browser-based applications, AI integrations, predictive software, and frontend work. The descriptions focus on the problem, the technical approach, and the scope of each project—not invented adoption figures or performance claims.
+
+| NO. | PROJECT | ENGINEERING AREA |
+|:--:|:--|:--|
+| **01** | **ARBEIT** | Recruitment workflows, web architecture, AI assistance |
+| **02** | **Deutsch Lernen** | Language learning, structured content, application UX |
+| **03** | **AI Chatbot** | Conversational UI, Flask, LLM APIs |
+| **04** | **AI Student Grade Prediction** | Machine learning, evaluation, Flask |
+| **05** | **Phishing URL Detection** | Security-oriented ML concept; details to verify |
+| **06** | **Scoopies** | E-commerce and product presentation |
+| **07** | **Veloura** | Fashion storefront and frontend interaction |
+| **08** | **Personal Portfolio** | Creative frontend and motion design |
+
+<br>
+
+## 01 — ARBEIT
+
+**Intelligent Job Recruitment Platform**
+
+`Python` `Flask` `PostgreSQL` `JavaScript` `LLM APIs` `PyMuPDF`
+
+ARBEIT brings together job-seeker and recruiter workflows within a single browser-based recruitment platform. The engineering scope includes candidate profiles, CV information, vacancy discovery, application handling, and recruiter-side evaluation tools.
+
+A central design consideration is **NOVA**, a voice-and-text assistant intended to interpret job-seeker requests and work through authorized application functions. The design separates conversational interpretation from backend operations and requires user confirmation for consequential actions such as submitting an application.
+
+**Technical considerations:**
+
+- Separate job-seeker and recruiter workflows, with role-aware backend access.
+- PDF text extraction and candidate review before profile information is accepted.
+- Job-to-candidate comparisons based on stated requirements and available evidence.
+- CV/profile consistency checks that flag discrepancies without claiming to prove employment history.
+- Parameterized SQL, audit trails, and clear boundaries around AI-generated suggestions.
+
+<details>
+<summary><b>Read the system architecture and design principles</b></summary>
+
+<br>
+
+```text
+JOB SEEKER UI                  RECRUITER UI
+     |                             |
+     +------------+----------------+
+                  |
+              FLASK API
+        Auth / RBAC / Validation
+                  |
+       +----------+-----------+
+       |                      |
+   PostgreSQL           Application services
+  Persistent data       CV / matching / workflow
+                              |
+                        Controlled LLM API
+
+NOVA → authorized backend functions → user confirmation
+```
+
+AI suggestions support the workflow; they do not independently verify candidate claims or make final recruiter decisions. This is the project's architecture and intended scope, not a claim that every feature has been completed.
+
+</details>
+
+---
+
+## 02 — Deutsch Lernen
+
+**German Language Learning Application**
+
+`Language Learning` `Vocabulary` `Grammar` `Learning Tools` `Web / Android Exploration`
+
+A language-learning application centered on organizing German vocabulary, example sentences, grammar, and personal notes. The concept combines structured learning content with features for reviewing material and managing learning progress.
+
+The emphasis is on a usable learning workspace: clear categorization, editable content, accessible navigation, and a consistent experience across the application's learning tools. The work also involves decisions about persistent user data, authentication, and mobile-friendly delivery.
+
+<details>
+<summary><b>Read the product and engineering focus</b></summary>
+
+<br>
+
+- Structured units for words, grammar, and example sentences.
+- Personal notes and review-oriented learning organization.
+- Responsive interfaces and consideration of offline or installable experiences.
+- Persistent application data and account-oriented workflows.
+
+</details>
+
+---
+
+## 03 — AI Chatbot
+
+**Conversational Web Application**
+
+`Python` `Flask` `LLM APIs` `Web UI`
+
+A browser-based chatbot connecting a web interface to a Python/Flask backend and external language-model services. The project explores the application layer around conversational AI: receiving user input, coordinating API requests, handling responses, and presenting conversations through a usable interface.
+
+The important engineering distinction is between **the language model** and **the application around it**. The web application is responsible for the request lifecycle, integration boundaries, user interaction, and error handling; the model supplies generated responses.
+
+---
+
+## 04 — AI Student Grade Prediction
+
+**Predictive Analytics Web Application**
+
+`Python` `Flask` `Scikit-learn` `Pandas` `Machine Learning`
+
+A machine-learning project that uses student-performance data to estimate academic outcomes and expose predictions through a Flask application. The work combines dataset preparation, feature processing, model training, evaluation, and web integration.
+
+| RECORDED EVALUATION | RESULT |
+|:--|--:|
+| GPA regression — R² | **≈ 0.9283** |
+| Grade-class classification — accuracy | **≈ 0.7119** |
+
+<sub>These are recorded evaluation results from the project, not independently audited results or predictions of future accuracy.</sub>
+
+<details>
+<summary><b>Read the machine-learning workflow</b></summary>
+
+<br>
+
+`Dataset → Preprocessing → Model training → Evaluation → Flask prediction interface`
+
+The project connects model experimentation with an application that accepts inputs and presents predictions. Evaluation metrics are reported with their task context rather than as general claims of model reliability.
+
+</details>
+
+---
+
+## 05 — Phishing URL Detection
+
+**Security-Oriented Classification**
+
+An explored project area involving the classification of suspicious URLs using features that may distinguish phishing links from legitimate destinations. The precise implementation, dataset, model, and evaluation results have not yet been verified for this profile, so no specific detection accuracy or deployed functionality is claimed.
+
+---
+
+## 06 — Scoopies
+
+**E-Commerce Website**
+
+A storefront project focused on presenting products and supporting an online shopping experience. The work includes web layout, product organization, and e-commerce-oriented interface design, with experience spanning WordPress and website implementation.
+
+---
+
+## 07 — Veloura
+
+**Fashion Storefront**
+
+A fashion-focused web project exploring product presentation, visual hierarchy, responsive design, and interactive frontend behavior. The emphasis is on building a coherent browsing experience through HTML, CSS, and JavaScript.
+
+---
+
+## 08 — Personal Portfolio
+
+**Interactive Frontend Development**
+
+A personal web portfolio used to explore interface composition, animation, and expressive frontend presentation. It represents an opportunity to experiment with technologies such as Three.js and GSAP while keeping navigation and content accessible.
+
+<br>
+
+---
+
+# 05 / GITHUB ACTIVITY
+
+### Public repository signals, not a skills score
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muneebqasmi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111827&text_color=334155&icon_color=2563eb" height="170" alt="GitHub account statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneebqasmi&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=334155" height="170" alt="GitHub repository language distribution" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneebqasmi&bg_color=ffffff&color=334155&line=2563eb&point=111827&area=true&area_color=bfdbfe&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GitHub contribution activity" />
+
+</div>
+
+<sub>Statistics are supplied by third-party services and may be temporarily unavailable. Repository language percentages reflect code composition, not proficiency.</sub>
+
+<br>
+
+---
+
+# 06 / TECHNICAL DIRECTION
+
+### Where web engineering meets intelligent applications
+
+My current interests are concentrated on the practical side of AI-enabled web software: designing workflows that make model capabilities useful while keeping the rest of the application predictable and maintainable.
+
+| AREA | QUESTIONS I'M EXPLORING |
+|:--|:--|
+| **AI in web applications** | Where does model assistance meaningfully improve an existing workflow? |
+| **Tool-using assistants** | How can natural-language requests map to controlled backend actions? |
+| **Data integrity** | How should applications distinguish user input, extracted content, and AI inference? |
+| **System boundaries** | What belongs in application code, and what should be delegated to an AI service? |
+| **User experience** | How can sophisticated functionality remain understandable and easy to use? |
+| **Software reliability** | How should systems behave when an external API is slow, unavailable, or incorrect? |
+
+<br>
+
+---
+
+# 07 / WORKING PRINCIPLES
+
+| PRINCIPLE | PRACTICE |
+|:--|:--|
+| **Start with the problem** | Clarify the workflow and expected behavior before choosing tools. |
+| **Keep components accountable** | Give frontend, backend, database, and AI services distinct responsibilities. |
+| **Test assumptions** | Verify behavior with real inputs and meaningful edge cases. |
+| **Treat AI output carefully** | Validate generated content and keep consequential actions under user control. |
+| **Improve through iteration** | Debug, review, and refine after a working implementation exists. |
+
+<br>
+
+---
+
+# 08 / CONNECT
+
+Interested in browser-based software, practical AI integration, and the engineering behind useful digital products.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muneebqasmi)
+[![Repositories](https://img.shields.io/badge/PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muneebqasmi?tab=repositories)
+
+<br>
+
+**DESIGN WITH CLARITY. BUILD WITH INTENT.**
 
 </div>
