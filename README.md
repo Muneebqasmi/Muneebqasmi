@@ -281,21 +281,36 @@ A personal web portfolio used to explore interface composition, animation, and e
 
 ---
 
-# GITHUB ACTIVITY
 
-### Public repository signals, not a skills score
+
+## GITHUB ACTIVITY
+
+---
+
+A snapshot of my public GitHub activity and repository languages.
+
+<br>
 
 <div align="center">
 
-<div align="center">
-
-<img src="./metrics.stats.svg" width="48%" alt="GitHub Account Statistics" />
-&nbsp;
-<img src="./metrics.languages.svg" width="48%" alt="GitHub Language Statistics" />
-
-<br><br>
-
-<img src="./metrics.summary.svg" width="98%" alt="GitHub Profile Summary" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>GITHUB STATISTICS</strong>
+      <br><br>
+      <img src="./metrics.stats.svg"
+           width="100%"
+           alt="GitHub Statistics" />
+    </td>
+    <td align="center" width="50%">
+      <strong>MOST USED LANGUAGES</strong>
+      <br><br>
+      <img src="./metrics.languages.svg"
+           width="100%"
+           alt="Repository Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -303,10 +318,17 @@ A personal web portfolio used to explore interface composition, animation, and e
 
 <sub>
 Statistics are generated through GitHub Actions.
-Repository language distribution reflects code composition, not proficiency.
+Language distribution represents repository code,
+not overall programming proficiency.
 </sub>
 
 <br>
+
+---
+
+
+---
+
 
 
 ---
