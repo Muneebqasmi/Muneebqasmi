@@ -68,64 +68,51 @@ I use AI development tools as part of this workflow, while keeping architectural
 
 
 
-### 06 / TOOLS & PLATFORMS
+
+### TECH STACK & TOOLS
 
 ---
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git&theme=light" width="48" alt="Git"/><br>
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub"/><br>
-      <sub>GitHub</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" alt="VS Code"/><br>
-      <sub>VS Code</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" alt="Linux"/><br>
-      <sub>Linux</sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=npm&theme=light" width="48" alt="npm"/><br>
-      <sub>npm</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" alt="MySQL"/><br>
-      <sub>MySQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="48" alt="SQLite"/><br>
-      <sub>SQLite</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" alt="Vercel"/><br>
-      <sub>Vercel</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma&theme=light" width="48" alt="Figma"/><br>
-      <sub>Figma</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=webflow&theme=light" width="48" alt="Webflow"/><br>
-      <sub>Webflow</sub>
-    </td>
-  </tr>
-</table>
+#### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,php,cpp&theme=light&perline=6" alt="HTML CSS JavaScript Python PHP C++"/>
+
+<br>
+<sub>HTML &nbsp; • &nbsp; CSS &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; Python &nbsp; • &nbsp; PHP &nbsp; • &nbsp; C++</sub>
+
+<br><br>
+
+#### FRAMEWORKS & LIBRARIES
+
+<img src="https://skillicons.dev/icons?i=flask,django,bootstrap,pytorch,tensorflow,sklearn&theme=light&perline=6" alt="Flask Django Bootstrap PyTorch TensorFlow Scikit-learn"/>
+
+<br>
+<sub>Flask &nbsp; • &nbsp; Django &nbsp; • &nbsp; Bootstrap &nbsp; • &nbsp; PyTorch &nbsp; • &nbsp; TensorFlow &nbsp; • &nbsp; Scikit-learn</sub>
+
+<br><br>
+
+#### DATABASES
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light&perline=3" alt="PostgreSQL MySQL SQLite"/>
+
+<br>
+<sub>PostgreSQL &nbsp; • &nbsp; MySQL &nbsp; • &nbsp; SQLite</sub>
+
+<br><br>
+
+#### DEVELOPMENT TOOLS & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,vercel,figma,wordpress&theme=light&perline=8" alt="Git GitHub VS Code Linux npm Vercel Figma WordPress"/>
+
+<br>
+<sub>Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; Linux &nbsp; • &nbsp; npm &nbsp; • &nbsp; Vercel &nbsp; • &nbsp; Figma &nbsp; • &nbsp; WordPress</sub>
 
 </div>
 
 <br>
 
----
 
 
 ---
