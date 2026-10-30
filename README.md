@@ -67,161 +67,81 @@ I use AI development tools as part of this workflow, while keeping architectural
 ---
 
 
-# 03 / TECHNOLOGY & TOOLING
-
-A collection of languages, frameworks, libraries, platforms, and development tools I've worked with across web engineering, applied AI, and software projects.
-
-<br>
-
-### 01 — PROGRAMMING LANGUAGES
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,java,c,cpp,html,css&theme=light&perline=9" alt="Programming languages" />
-
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
-
-</div>
-
-<br>
+### 06 / TOOLS & PLATFORMS
 
 ---
 
-### 02 — FRONTEND DEVELOPMENT
+#### DEVELOPMENT & DATABASE TOOLS
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,threejs&theme=light&perline=5" alt="Frontend technologies" />
-
-<br><br>
-
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Anime.js](https://img.shields.io/badge/Anime.js-334155?style=flat-square)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-475569?style=flat-square)
-
-</div>
-
-<br>
-
----
-
-### 03 — BACKEND ENGINEERING & APIs
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express,php&theme=light&perline=4" alt="Backend technologies" />
-
-<br><br>
-
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-334155?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-374151?style=flat-square&logo=json&logoColor=white)
-![Web Speech API](https://img.shields.io/badge/Web_Speech_API-64748B?style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linuxmint/87CF3E" width="48" height="48" alt="Linux Mint" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/npm/CB3837" width="48" height="48" alt="npm" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="48" height="48" alt="Dev-C++" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL Workbench" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="DB Browser for SQLite" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" alt="Vercel" />
+</p>
 
 <br>
 
----
+#### AI ASSISTANTS & PLATFORMS
 
-### 04 — ARTIFICIAL INTELLIGENCE & DATA
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=light&perline=3" alt="AI and machine learning technologies" />
-
-<br><br>
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-2563EB?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-334155?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-475569?style=flat-square)
-![Data Processing](https://img.shields.io/badge/Data_Processing-64748B?style=flat-square)
-
-</div>
-
-<br>
-
----
-
-### 05 — DATABASES & PLATFORMS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,wordpress,androidstudio,kotlin,gradle&theme=light&perline=6" alt="Databases and platforms" />
-
-<br><br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/openai/000000" width="48" height="48" alt="ChatGPT" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="48" height="48" alt="Gemini" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google AI Studio" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/google/EA4335" width="48" height="48" alt="Google Stitch" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/google/34A853" width="48" height="48" alt="Google Labs" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
+</p>
 
 <br>
 
----
+#### DESIGN & WEB PLATFORMS
 
-### 06 — DEVELOPMENT TOOLS & ENVIRONMENT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,npm&theme=light&perline=6" alt="Development tools" />
-
-<br><br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![OpenJDK](https://img.shields.io/badge/OpenJDK-437291?style=flat-square&logo=openjdk&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/framer/000000" width="48" height="48" alt="Framer" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/webflow/146EF5" width="48" height="48" alt="Webflow" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/0D99FF" width="48" height="48" alt="Figure Labs (placeholder)" />
+</p>
 
 <br>
 
----
+#### PRODUCTIVITY & NETWORKING
 
-### 07 — ENGINEERING CAPABILITIES
-
-| Area | Technical Focus |
-|:--|:--|
-| **Web Applications** | Browser-based software, responsive interfaces, client-server architecture |
-| **Backend Systems** | Server-side programming, API development, request handling, business logic |
-| **Database Engineering** | Relational data modeling, SQL queries, application data persistence |
-| **Applied AI** | LLM integration, conversational interfaces, intelligent workflows |
-| **Machine Learning** | Data preparation, model training, evaluation, predictive applications |
-| **Software Design** | Requirements analysis, modular architecture, implementation planning |
-| **Development Practices** | Version control, debugging, testing, iterative improvement |
-| **Platforms** | WordPress applications, Linux development environments, Android tooling |
-
-<br>
-
-<sub>Technologies listed represent a mixture of project experience, experimentation, and development tooling rather than equal proficiency in every area.</sub>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="48" height="48" alt="Microsoft Word" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="48" height="48" alt="Microsoft PowerPoint" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cisco/049FD9" width="48" height="48" alt="Cisco Packet Tracer" />
+</p>
 
 <br>
 
