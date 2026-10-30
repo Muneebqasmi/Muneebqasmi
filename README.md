@@ -13,7 +13,7 @@
 
 ---
 
-# 01 / THE DEVELOPER
+# THE DEVELOPER
 
 ### Software Developer | Web Engineering & Applied AI
 
@@ -37,7 +37,7 @@ My development approach emphasizes understanding requirements, designing appropr
 
 ---
 
-# 02 / ENGINEERING PRACTICE
+# ENGINEERING PRACTICE
 
 ### From interface to infrastructure
 
@@ -66,7 +66,7 @@ I use AI development tools as part of this workflow, while keeping architectural
 
 ---
 
-# 03 / TECHNOLOGY & TOOLING
+# TECHNOLOGY & TOOLING
 
 <div align="center">
 
@@ -99,7 +99,7 @@ I use AI development tools as part of this workflow, while keeping architectural
 
 ---
 
-# 04 / SELECTED PROJECTS
+# PROJECTS
 
 ### Eight projects / newest to oldest
 
@@ -263,7 +263,7 @@ A personal web portfolio used to explore interface composition, animation, and e
 
 ---
 
-# 05 / GITHUB ACTIVITY
+# GITHUB ACTIVITY
 
 ### Public repository signals, not a skills score
 
@@ -284,7 +284,7 @@ A personal web portfolio used to explore interface composition, animation, and e
 
 ---
 
-# 06 / TECHNICAL DIRECTION
+# TECHNICAL DIRECTION
 
 ### Where web engineering meets intelligent applications
 
@@ -303,7 +303,7 @@ My current interests are concentrated on the practical side of AI-enabled web so
 
 ---
 
-# 07 / WORKING PRINCIPLES
+# WORKING PRINCIPLES
 
 | PRINCIPLE | PRACTICE |
 |:--|:--|
@@ -317,7 +317,7 @@ My current interests are concentrated on the practical side of AI-enabled web so
 
 ---
 
-# 08 / CONNECT
+# CONNECT
 
 Interested in browser-based software, practical AI integration, and the engineering behind useful digital products.
 
